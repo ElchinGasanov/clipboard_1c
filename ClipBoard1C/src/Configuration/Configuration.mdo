@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdclass:Configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" xmlns:mdclassExtension="http://g5.1c.ru/v8/dt/metadata/mdclass/extension" uuid="234d56c2-9750-474e-af74-9b52d35ed6a7">
-  <name>БуферОбмена1С</name>
+  <name>Clipboard1C</name>
   <synonym>
     <key>ru</key>
-    <value>Буфер обмена1 С</value>
+    <value>Clipboard1 C</value>
   </synonym>
   <objectBelonging>Adopted</objectBelonging>
   <extension xsi:type="mdclassExtension:ConfigurationExtension">
@@ -16,7 +16,7 @@
   <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="79bceebd-f257-41d0-9638-de4767850592"/>
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="31380d66-5ad2-4f24-a4e5-eb9e4c502437"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="57e58133-1064-48ce-b5bb-6670e1dc02e0"/>
-  <namePrefix>БуферО_</namePrefix>
+  <namePrefix>Clipboard_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.12</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>AddOn</configurationExtensionPurpose>
   <defaultRunMode>ManagedApplication</defaultRunMode>
