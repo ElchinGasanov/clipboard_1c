@@ -26,10 +26,10 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <languages uuid="fe28ecbc-974b-4e6b-9356-c56a7be7ed57">
-    <name>Russian</name>
+    <name>Русский</name>
     <synonym>
       <key>ru</key>
-      <value>Russian</value>
+      <value>Русский</value>
     </synonym>
     <objectBelonging>Adopted</objectBelonging>
     <extension xsi:type="mdclassExtension:LanguageExtension">
